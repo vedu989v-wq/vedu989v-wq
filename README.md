@@ -1,27 +1,214 @@
-# 💫 About Me:
-Maintaining my Newly made projects here :)
+<!-- ========================= HEADER ========================= -->
 
+<p align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedansh-sharma-a80621398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedu989v@gmail.com) 
+<img src="YOUR_CUSTOM_BANNER" width="100%">
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vedu989v-wq&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=vedu989v-wq&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedu989v-wq&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedu989v-wq&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">
+Hi 👋 I'm Vedansh Sharma
+</h1>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h3 align="center">
+Full Stack Developer • DSA Enthusiast • GATE 2028 Aspirant
+</h3>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vedu989v-wq&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;200%2B+LeetCode+Problems;Backend+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New;Open+Source+Learner"/>
+
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=vedu989v-wq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+```cpp
+class Vedansh {
+public:
+    string role = "Full Stack Developer";
+    string language = "C++";
+    string currentlyLearning = "Backend + PostgreSQL + React";
+    string preparingFor = "GATE 2028";
+    string hobbies = "Coding | Music | Building Projects";
+};
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💡 LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Karma&ext=contest"/>
+
+</p>
+
+---
+
+# ⏱ WakaTime Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎧 Spotify
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📊 Student Analytics Dashboard
+
+> Vanilla JS • Node.js • PostgreSQL • Charts
+
+### 🔐 Authentication System
+
+> React • Express • MongoDB • JWT
+
+### 🌦 Weather Forecast App
+
+> JavaScript • Open Meteo API
+
+### 🎬 Movie Poster Gallery
+
+> OMDb API • JavaScript
+
+---
+
+# ✍ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ☕ Support
+
+If you like my work, consider giving my repositories a ⭐.
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="420">
+
+</p>
