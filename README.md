@@ -10,7 +10,7 @@ Full Stack Developer • DSA Enthusiast • Exploring Things
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;200%2B+LeetCode+Problems;Backend+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New;Open+Source+Learner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;250%2B+LeetCode+Problems;Backend+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New;Open+Source+Learner"/>
 
 </p>
 
@@ -60,7 +60,7 @@ public:
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 
 </p>
 
