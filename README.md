@@ -1,17 +1,11 @@
 <!-- ========================= HEADER ========================= -->
 
-<p align="center">
-
-<img src="https://photos.app.goo.gl/rjrbwENnTb9v6PQ16" width="100%">
-
-</p>
-
 <h1 align="center">
 Hi 👋 I'm Vedansh Sharma
 </h1>
 
 <h3 align="center">
-Full Stack Developer • DSA Enthusiast • GATE 2028 Aspirant
+Full Stack Developer • DSA Enthusiast • Exploring Things
 </h3>
 
 <p align="center">
@@ -30,7 +24,6 @@ public:
     string role = "Full Stack Developer";
     string language = "C++";
     string currentlyLearning = "Backend + PostgreSQL + React";
-    string preparingFor = "GATE 2028";
     string hobbies = "Coding | Music | Building Projects";
 };
 ```
@@ -73,28 +66,6 @@ public:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedu989v-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=vedu989v-wq&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedu989v-wq&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -105,15 +76,6 @@ public:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vedu989v-wq&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
@@ -143,25 +105,6 @@ public:
 
 ---
 
-# ⏱ WakaTime Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🎧 Spotify
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
-
-</p>
-
----
 
 # 🚀 Featured Projects
 
@@ -177,9 +120,6 @@ public:
 
 > JavaScript • Open Meteo API
 
-### 🎬 Movie Poster Gallery
-
-> OMDb API • JavaScript
 
 ---
 
