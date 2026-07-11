@@ -41,15 +41,15 @@ public:
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://in.linkedin.com/in/vedansh-sharma-a80621398">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB">
+<a href="https://github.com/vedu989v-wq">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_LEETCODE">
+<a href="https://leetcode.com/vark24">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
 </a>
 
@@ -77,9 +77,9 @@ public:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedu989v-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=vedu989v-wq&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -89,7 +89,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedu989v-wq&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -99,7 +99,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedu989v-wq&theme=tokyo-night"/>
 
 </p>
 
@@ -109,7 +109,7 @@ public:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vedu989v-wq&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -197,7 +197,7 @@ public:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=vedu989v-wq&style=for-the-badge"/>
 
 </p>
 
