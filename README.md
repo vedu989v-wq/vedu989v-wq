@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img src="YOUR_CUSTOM_BANNER" width="100%">
+<img src="https://photos.app.goo.gl/rjrbwENnTb9v6PQ16" width="100%">
 
 </p>
 
