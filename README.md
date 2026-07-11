@@ -54,9 +54,9 @@ public:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express"/>
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 
