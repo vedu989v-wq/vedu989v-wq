@@ -118,9 +118,17 @@ public:
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB/YOUR_GITHUB/output/github-contribution-grid-snake-dark.svg"/>
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/vedu989v-wq/vedu989v-wq/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/vedu989v-wq/vedu989v-wq/blob/output/github-contribution-grid-snake.svg" />
+  <img
+    alt="github contribution grid snake"
+    src="https://github.com/vedu989v-wq/vedu989v-wq/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 ---
@@ -129,7 +137,7 @@ public:
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/vark24?theme=dark&font=Karma&ext=contest"/>
 
 </p>
 
